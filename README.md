@@ -1,2 +1,2 @@
 # soarconference
-Soar Conference Website
+Soar Conference Website - access at soarconference.ca
