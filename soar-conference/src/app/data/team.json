@@ -1,0 +1,52 @@
+[
+  {
+    "imgpath": "/carousel/chairs.jpeg",
+    "title": "Chairs",
+    "members": "Dhruv Joshi, Sahil Nijjer, Swarleen Banwait"
+  },
+  {
+    "imgpath": "/carousel/mld.JPG",
+    "title": "MLD's",
+    "members": "Kunal Kashyap, Aarna Gauni, Xavier Muli, Krish Patel"
+  }, 
+  {
+    "imgpath": "/carousel/dd.JPG",
+    "title": "Development Team",
+    "members": "Bhavya Patel, Sanat Guduru"
+  }, 
+  {
+    "imgpath": "/carousel/security.JPG",
+    "title": "Heads of Security",
+    "members": "Krivi Pandit, Harshil Jadawala"
+  }, 
+  {
+    "imgpath": "/carousel/promo.JPG",
+    "title": "Heads of Promotion",
+    "members": "Anastacia Harinarain, Aleeza Syeda, Smit Patel, Yessica Behl"
+  }, 
+  {
+    "imgpath": "/carousel/finance.JPG",
+    "title": "Heads of Finance",
+    "members": "Sajan Paventhan, Gautam Goyal, Nupoor Patil"
+  }, 
+  {
+    "imgpath": "/carousel/ccom.JPG",
+    "title": "Heads of CCOM",
+    "members": "Shivam Shah, Zane Matuk, Shreyas Hegde"
+  }, 
+  {
+    "imgpath": "/carousel/media.JPG",
+    "title": "Heads of Media",
+    "members": "Rudra Patel, Risha Kansara"
+  }, 
+  {
+    "imgpath": "/carousel/ent.JPG",
+    "title": "Entertainment",
+    "members": "Aleena Patel, Sona Gudise, Avneet Kaler, Krisha Sharma"
+  }, 
+  {
+    "imgpath": "/carousel/jrep.JPG",
+    "title": "Junior Reps",
+    "members": "Jenny Mao, Nitisha Jain, Akshara Brahmbhatt"
+  } 
+]
